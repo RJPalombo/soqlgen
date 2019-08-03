@@ -7,8 +7,8 @@ username = ''
 password = ''
 security_token = ''
 domain = 'login'
-convert_currency = False
-format_currency = False
+convert_currency = True
+format_currency = True
 sobject_list = ['Account', 'Contact']
 file_name = 'soql.csv'
 
