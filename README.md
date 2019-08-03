@@ -23,5 +23,5 @@ Make sure Python 3 is intalled and run the following command
 ### Running
 
 ```
-python soql.gen
+python soqlgen.py
 ```
