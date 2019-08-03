@@ -19,3 +19,9 @@ Make sure Python 3 is intalled and run the following command
 ```
 ./install.bat
 ```
+
+### Running
+
+```
+python soql.gen
+```
