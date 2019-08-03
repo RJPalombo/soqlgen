@@ -28,7 +28,7 @@ python soqlgen.py
 
 ### Example Output
 
-####Account
+#### Account
 
 ```sql
 SELECT Id, IsDeleted, MasterRecordId, Name, Type, ParentId, BillingStreet, BillingCity, BillingState,
@@ -44,7 +44,7 @@ UpsellOpportunity__c, SLASerialNumber__c, SLAExpirationDate__c
 FROM Account
 ```
 
-####Contact
+#### Contact
 
 ```sql
 SELECT Id, IsDeleted, MasterRecordId, AccountId, LastName, FirstName, Salutation, Name, OtherStreet,
